@@ -31,5 +31,8 @@ When the game quits, the game should display “Goodbye [player name]. Your fina
 is $ [player’s final balance]. The game will then display the player’s balance history (their 
 balance at the end of each round)
 
+![Screenshot (28)](https://user-images.githubusercontent.com/69756816/125027827-4163b080-e0ca-11eb-9450-db17363bb480.png)
+
+
 Enjoy!!
 
