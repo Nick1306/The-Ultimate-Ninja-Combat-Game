@@ -3,6 +3,8 @@
 This is a fun little game where player will be fighting against the computer, and the winner gets 
 bragging rights.
 
+I've developed this console game entirely using Python. This is a fun little game which will allow you to learn all the vital concepts of Python tech such as List, dictiornary etc. 
+
 The player will start the game with a balance of $100. The player will choose a move, and so 
 will the computer, and the winner of that round will be announced followed by the updated 
 balance (depending on whether the player won or lost and how much he or she bet). The 
@@ -30,3 +32,4 @@ is $ [player’s final balance]. The game will then display the player’s balan
 balance at the end of each round)
 
 Enjoy!!
+
